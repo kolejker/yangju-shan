@@ -8,6 +8,16 @@ from utils import get_random_video_url, download_and_compress
 CHANNELS = [
     'https://www.youtube.com/@LeKaiJumpen',
     'https://www.youtube.com/@chanjunshan',
+    'https://www.youtube.com/@terrorjump',
+    'https://www.youtube.com/@pyo666',
+    'https://www.youtube.com/@dezenaamniet',
+    'https://www.youtube.com/@StarkOwnStyle',
+    'https://www.youtube.com/@GoShowtek',
+    'https://www.youtube.com/@madawards09',
+    'https://www.youtube.com/@JumpstyleIsHoly',
+    'https://www.youtube.com/@xBeStDeViLx',
+    'https://www.youtube.com/@shahjumper',
+    'https://www.youtube.com/@ZeroJump4Life'
 ]
 
 async def handle_jumpstyle(message):
